@@ -9,4 +9,4 @@ I am a computer science & math student at [The University of Virginia](https://v
 
 Apart from school, I've been coding since I've been 5 years old and have completed many interesting software projects. I'm mainly interested in AI, startups, economics and politics. Since I'm a college student, I solve a lot of problems for myself using software.
 
-![[PB030018-removebg-preview.png]]
+![[baby.png]]
