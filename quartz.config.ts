@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Tanmai",
-    pageTitleSuffix: "",
+    pageTitleSuffix: " | Tanmai",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "Bricolage Grotesque",
         code: "IBM Plex Mono",
       },
       colors: {
